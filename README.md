@@ -2,8 +2,8 @@
 
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there! I'm **G Mahesh**, an MCA student at PES University, passionate about **software development, AI, and cloud computing**.  
-I thrive on **building impactful projects**, from full-stack web apps to big data solutions, and continuously exploring emerging technologies.  
+I'm **Mahesh G**, passionate about **software development, AI, and cloud computing**.  
+**🛠️ Tech Enthusiast Crafting Digital Marvels & Expanding Horizons From India ✨**
 
 ---
 
@@ -47,6 +47,9 @@ I thrive on **building impactful projects**, from full-stack web apps to big dat
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
   <img src="https://img.shields.io/badge/Tally%20ERP-008000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
@@ -56,13 +59,6 @@ I thrive on **building impactful projects**, from full-stack web apps to big dat
 ## 🏆 Projects
 - **[Digital Devotee Website](https://github.com/GMahesh007/Digital-Devotee)** – Modern temple management system integrating eco-friendly practices & user-friendly UI.
 - **[Software Network App](https://github.com/GMahesh007/Software-Network)** – Windows app for centralized project tracking & team communication.
-
----
-
-## 📜 Achievements
-- 🥇 **First Place** – Badminton & Quiz Competitions (School Level)  
-- 🏅 **Abdul Kalam Merit Scholarship** – For academic excellence  
-- 🥈 **Second Place** – Shot Put (College Level)  
 
 ---
 
@@ -78,7 +74,7 @@ I thrive on **building impactful projects**, from full-stack web apps to big dat
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/gmaheshmahi007/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:maheshshedolkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:maheshgaikandu9248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://gmahesh007.github.io/Personal_Portfolio07-/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
