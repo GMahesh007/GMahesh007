@@ -77,7 +77,7 @@ I'm **Mahesh G**, passionate about **software development, AI, and cloud computi
 ---
 
 ## 🏆 Projects
-- **[Smart JobX](https://github.com/GMahesh007/Smart-JobX)** – AI-powered job readiness platform bridging the skill gap with Resume Analysis, Skill Gap Insights, Mock Assessments, and Recruiter Referrals.
+- **[Smart JobX](https://github.com/GMahesh007/Smart-JobX)** – AI-powered job platform bridging the skill gap insights with Resume Analysis, Mock Assessments, and Referrals.
 - **[Digital Devotee Website](https://github.com/GMahesh007/Digital-Devotee)** – Modern temple management system integrating eco-friendly practices & user-friendly UI.
 - **[Software Network App](https://github.com/GMahesh007/Software-Network)** – Windows app for centralized project tracking & team communication.
 
