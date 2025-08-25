@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub Profile!
 
-I'm **Mahesh G**, passionate about tech - **software development, AI, and cloud computing**.  
+**✨I'm **Mahesh G**, passionate about tech - **software development, AI, and cloud computing**.  
 **🛠️ Tech Enthusiast Crafting Digital Marvels & Expanding Horizons From India ✨**
 
 ---
@@ -41,7 +41,6 @@ I'm **Mahesh G**, passionate about tech - **software development, AI, and cloud 
 ### 🤖 AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-FF8C00?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Model%20Building-8B0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Preprocessing-4682B4?style=for-the-badge" />
