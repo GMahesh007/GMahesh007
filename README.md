@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub Profile!
 
-**✨I'm **Mahesh G**, passionate about tech - **software development, AI, and cloud computing**.  
+✨ I'm **Mahesh G**, passionate about tech - **software development, AI, and cloud computing**.  
 **🛠️ Tech Enthusiast Crafting Digital Marvels & Expanding Horizons From India ✨**
 
 ---
