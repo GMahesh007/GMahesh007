@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# 🚀 Welcome to My GitHub Profile!
-
 ✨ I'm **Mahesh G**, passionate about tech - **AI-Software-Development-Cloud**.  
 **🛠️ Tech Enthusiast Crafting Digital Marvels & Expanding Horizons From India ✨**
 
