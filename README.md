@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
 ✨ I'm **Mahesh G**, passionate about tech - **AI-Software-Development-Cloud**.  
 **🛠️ Tech Enthusiast Crafting Digital Marvels & Expanding Horizons From India ✨**
 
